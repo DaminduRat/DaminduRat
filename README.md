@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hello there 👋</h1>
 
-<!--
-**DaminduRat/DaminduRat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm <b>Damindu Rathnayake</b><br>
+Full Stack Developer from Sri Lanka 🇱🇰
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Who am I
+
+- 💻 I build web apps and sometimes break them
+- 🐛 Professional bug creator
+- 📚 Always learning something new
+- 🌙 Best coding hours: after midnight
+
+---
+
+### ⚙️ Tech I use
+
+<p>
+
+JavaScript • Python • Node.js • React  
+HTML • CSS • MongoDB • MySQL  
+Git • Linux • VS Code
+
+</p>
+
+---
+
+### 🚀 Current Focus
+
+- Building useful web tools  
+- Improving backend performance  
+- Learning better system design  
+
+---
+
+### 🐍 Contribution Path
+
+![snake](https://raw.githubusercontent.com/damindurat/damindurat/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🌐 Find me around the web
+
+Telegram • GitHub • Web Projects
+
+---
+
+<p align="center">
+<i>“Small commits today, big systems tomorrow.”</i>
+</p>
