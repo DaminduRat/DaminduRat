@@ -38,7 +38,7 @@ Git • Linux • VS Code
 
 ### 🐍 Contribution Path
 
-![snake](https://raw.githubusercontent.com/damindurat/damindurat/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/DaminduRat/DaminduRat/output/github-contribution-grid-snake.svg)
 
 ---
 
