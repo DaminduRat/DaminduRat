@@ -9,7 +9,7 @@
 
 <p align="center">
 I'm <b>Damindu Rathnayake</b><br>
-Full Stack Developer from Sri Lanka 🇱🇰
+Developer from Sri Lanka 🇱🇰
 </p>
 
 ---
@@ -52,12 +52,6 @@ Full Stack Developer from Sri Lanka 🇱🇰
 ### 🐍 Contribution Path
 
 ![pacman graph](https://raw.githubusercontent.com/damindurat/damindurat/output/pacman-contribution-graph-dark.svg)
-
----
-
-### 🌐 Find me around the web
-
-Telegram • GitHub • Web Projects
 
 ---
 
