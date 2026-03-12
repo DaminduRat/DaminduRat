@@ -14,12 +14,12 @@ Full Stack Developer from Sri Lanka 🇱🇰
 
 ---
 
-### 🧠 Who am I
+### 🧀 The Literal Lab Rat
 
-- 💻 I build web apps and sometimes break them
-- 🐛 Professional bug creator
-- 📚 Always learning something new
-- 🌙 Best coding hours: after midnight
+- 🐀 Professional maze runner (mostly CSS layouts)
+- 🧀 Will code for snacks and shiny things
+- 🏠 Living in the walls of the codebase
+- 🐾 Leaving tiny footprints in your commit history
 
 ---
 
